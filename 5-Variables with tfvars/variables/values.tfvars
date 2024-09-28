@@ -1,7 +1,5 @@
-#Specify the values of the variables created
-
-ami_id = ""
-
-instance_type = ""
-
-ec2-tag = ""
+aws_region      = ""
+instance_type   = ""
+ami_id          = ""
+instance_count  = 1
+instance_name   = ""
