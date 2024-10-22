@@ -1,5 +1,5 @@
 # Below is the resource block which creates EC2 Instance
-resource "aws_instance" "prod-instance" {
+resource "" "" {
   ami           = ""
   instance_type = ""
   tags = {
